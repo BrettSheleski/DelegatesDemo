@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Adder", "Adder\1-Adder.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-DelegateCalculator", "DelegateCalculator\3-DelegateCalculator.csproj", "{7648655C-A25F-4C6D-8F54-2536C82B5529}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-DelegatesCalculatorWithLambdas", "DelegatesCalculatorWithLambdas\4-DelegatesCalculatorWithLambdas.csproj", "{A8E582F4-2D65-4B55-A7CA-69A082459B92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7648655C-A25F-4C6D-8F54-2536C82B5529}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7648655C-A25F-4C6D-8F54-2536C82B5529}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7648655C-A25F-4C6D-8F54-2536C82B5529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E582F4-2D65-4B55-A7CA-69A082459B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E582F4-2D65-4B55-A7CA-69A082459B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E582F4-2D65-4B55-A7CA-69A082459B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E582F4-2D65-4B55-A7CA-69A082459B92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

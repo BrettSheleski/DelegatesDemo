@@ -2,7 +2,7 @@
 
 namespace DelegateCalculator
 {
-    class CalculatorOperation
+    public class CalculatorOperation
     {
         public CalculatorOperation(string displayText, Func<double, double, double> operationDelegate)
         {
